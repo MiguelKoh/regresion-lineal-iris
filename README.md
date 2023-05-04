@@ -25,3 +25,8 @@ https://colab.research.google.com/drive/1OJul0Yh3Jv93INmLcT554j41Z2f8Np4L?usp=sh
 ![2](https://github.com/MiguelKoh/regresion-lineal-iris/blob/main/Evidencias/Mongo%20DB/2.png)
 ![3](https://github.com/MiguelKoh/regresion-lineal-iris/blob/main/Evidencias/Mongo%20DB/3.png)
 ![4](https://github.com/MiguelKoh/regresion-lineal-iris/blob/main/Evidencias/Mongo%20DB/4.png)
+
+## 4) Modelos de regresión lineal con streamlit - Iris 
+### Deployar la app en streamline y compartir el repo y el link
+https://miguelkoh-regresion-lineal-iris-1-estadistica-3nd7is.streamlit.app/
+https://github.com/MiguelKoh/regresion-lineal-iris
