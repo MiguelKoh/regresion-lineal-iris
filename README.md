@@ -7,9 +7,9 @@ a) Overview
 ![Overview](https://github.com/MiguelKoh/regresion-lineal-iris/blob/main/Evidencias/Modelo%20en%20Azure%20ML%20Studio/overview.png)
 
 b) Models
-
-![Models]([https://github.com/MiguelKoh/regresion-lineal-iris/blob/main/Evidencias/Modelo%20en%20Azure%20ML%20Studio/overview.png](https://github.com/MiguelKoh/regresion-lineal-iris/blob/main/Evidencias/Modelo%20en%20Azure%20ML%20Studio/modelos.png))
+![Models](https://github.com/MiguelKoh/regresion-lineal-iris/blob/main/Evidencias/Modelo%20en%20Azure%20ML%20Studio/modelos.png)
 
 c) Métricas del mejor modelo
 
-![Metricas]([https://github.com/MiguelKoh/regresion-lineal-iris/blob/main/Evidencias/Modelo%20en%20Azure%20ML%20Studio/overview.png](https://github.com/MiguelKoh/regresion-lineal-iris/blob/main/Evidencias/Modelo%20en%20Azure%20ML%20Studio/metricas.png)
+![Metricas](https://github.com/MiguelKoh/regresion-lineal-iris/blob/main/Evidencias/Modelo%20en%20Azure%20ML%20Studio/metricas.png)
+
