@@ -16,4 +16,4 @@ c) Métricas del mejor modelo
 ## Mongo DB -  log de commits
 ### Práctica conectar base de datos desde colab
 
-[Colab:](https://colab.research.google.com/drive/1OJul0Yh3Jv93INmLcT554j41Z2f8Np4L?usp=share_link)
+https://colab.research.google.com/drive/1OJul0Yh3Jv93INmLcT554j41Z2f8Np4L?usp=share_link
