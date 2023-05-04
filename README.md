@@ -28,5 +28,5 @@ https://colab.research.google.com/drive/1OJul0Yh3Jv93INmLcT554j41Z2f8Np4L?usp=sh
 
 ## 4) Modelos de regresión lineal con streamlit - Iris 
 ### Deployar la app en streamline y compartir el repo y el link
-https://miguelkoh-regresion-lineal-iris-1-estadistica-3nd7is.streamlit.app/
+https://miguelkoh-regresion-lineal-iris-1-estadistica-3nd7is.streamlit.app/ <br>
 https://github.com/MiguelKoh/regresion-lineal-iris
